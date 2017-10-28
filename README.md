@@ -21,7 +21,18 @@
 [Effective Java](https://pan.baidu.com/s/1sl4ZVOh) | [UCodeUStory](https://github.com/UCodeUStory)
 
 
-    待添加
+## **Go**书籍
+
+ 图书名字 | 捐献者
+---|---
+[Go语言程序设计](https://pan.baidu.com/s/1sl4ZVOh)|[UCodeUStory](http://note.youdao.com/)
+
+## **JavaScript**书籍
+
+ 图书名字 | 捐献者
+---|---
+[JavaScript程序188个建议](https://pan.baidu.com/s/1sl4ZVOh) |[UCodeUStory](https://github.com/UCodeUStory) 
+
 
  
 
