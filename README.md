@@ -13,12 +13,14 @@
 [《Kotlin for android developers》中文翻版](https://pan.baidu.com/s/1sl4ZVOh) | [UCodeUStory](https://github.com/UCodeUStory)
 [Android疯狂讲义](https://pan.baidu.com/s/1sl4ZVOh) | [UCodeUStory](https://github.com/UCodeUStory)
 [Android第一行代码](https://pan.baidu.com/s/1sl4ZVOh) | [UCodeUStory](https://github.com/UCodeUStory)
+[Android软件安全与逆向分析](https://pan.baidu.com/s/1sl4ZVOh) | [UCodeUStory](https://github.com/UCodeUStory)
 
 ## **Java**书籍
 
  图书名字 | 捐献者
 ---|---
 [Effective Java](https://pan.baidu.com/s/1sl4ZVOh) | [UCodeUStory](https://github.com/UCodeUStory)
+[Java编程思想第四版](https://pan.baidu.com/s/1sl4ZVOh) | [UCodeUStory](https://github.com/UCodeUStory)
 
 
 ## **Go**书籍
@@ -47,7 +49,15 @@
   ---|---
   [Docker从入门到实践](https://pan.baidu.com/s/1jHHjxUA)|[cmdy](https://github.com/cmdy)
   [Docker入门实战手册](https://pan.baidu.com/s/1jHHjxUA)|[cmdy](https://github.com/cmdy)
-  
+
+## **Redis**书籍
+
+ 图书名字 | 捐献者
+---|---
+[Redis设计与实现](https://pan.baidu.com/s/1sl4ZVOh) | [UCodeUStory](https://github.com/UCodeUStory)
+[Redis入门指南](https://pan.baidu.com/s/1sl4ZVOh) | [UCodeUStory](https://github.com/UCodeUStory)
+
+
 ## **C**书籍
 
  
