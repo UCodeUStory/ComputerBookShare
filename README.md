@@ -34,13 +34,29 @@
 [JavaScript程序188个建议](https://pan.baidu.com/s/1sl4ZVOh) |[UCodeUStory](https://github.com/UCodeUStory) 
 
 
+ ## **Python**书籍
+
+
+ 图书名字 | 捐献者
+---|---
+[Python学习手册](https://pan.baidu.com/s/1sl4ZVOh)| [UCodeUStory](https://github.com/UCodeUStory)
+[Python基础教程第二版](https://pan.baidu.com/s/1sl4ZVOh) | [UCodeUStory](https://github.com/UCodeUStory)
+
+
+
+
+
+    待添加
+
  
 
 
 
+## 图书下载地址
 
-
-**[图书PDF地址](https://pan.baidu.com/s/1sl4ZVOh)
+**[++图书PDF地址++](https://pan.baidu.com/s/1sl4ZVOh)
 没有密码，长期有效**
+
+
 
 
