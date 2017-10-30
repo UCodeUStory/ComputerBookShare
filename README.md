@@ -15,12 +15,39 @@
 [Android第一行代码](https://pan.baidu.com/s/1sl4ZVOh) | [UCodeUStory](https://github.com/UCodeUStory)
 [Android软件安全与逆向分析](https://pan.baidu.com/s/1sl4ZVOh) | [UCodeUStory](https://github.com/UCodeUStory)
 
+
 ## **Java**书籍
 
  图书名字 | 捐献者
 ---|---
-[Effective Java](https://pan.baidu.com/s/1sl4ZVOh) | [UCodeUStory](https://github.com/UCodeUStory)
 [Java编程思想第四版](https://pan.baidu.com/s/1sl4ZVOh) | [UCodeUStory](https://github.com/UCodeUStory)
+[Effective Java](https://pan.baidu.com/s/1sl4ZVOh) | [UCodeUStory](https://github.com/UCodeUStory)
+[Java实效编程百例](https://pan.baidu.com/s/1sl4ZVOh) | [UCodeUStory](https://github.com/UCodeUStory)
+[《深入体验JAVA Web开发内幕——核心基础》PDF版](https://pan.baidu.com/s/1sl4ZVOh) | [UCodeUStory](https://github.com/UCodeUStory)
+[《java编程那些事儿》电子书](https://pan.baidu.com/s/1sl4ZVOh) | [UCodeUStory](https://github.com/UCodeUStory)
+[《代码整洁之道(中文版)》清晰版](https://pan.baidu.com/s/1sl4ZVOh) | [UCodeUStory](https://github.com/UCodeUStory)
+[《Java程序员上班那些事儿》Java程序员职业指导电子书](https://pan.baidu.com/s/1sl4ZVOh) | [UCodeUStory](https://github.com/UCodeUStory)
+[《深入体验JAVA Web开发内幕-高级特性》](https://pan.baidu.com/s/1sl4ZVOh) | [UCodeUStory](https://github.com/UCodeUStory)
+[《Java零基础学习程序设计》+帮助文档(适合初学者)](https://pan.baidu.com/s/1sl4ZVOh) | [UCodeUStory](https://github.com/UCodeUStory)
+[《JAVA并发编程实践》PDF版电子书](https://pan.baidu.com/s/1sl4ZVOh) | [UCodeUStory](https://github.com/UCodeUStory)
+[《精通Struts:基于MVC的Java Web设计与开发》高清](https://pan.baidu.com/s/1sl4ZVOh) | [UCodeUStory](https://github.com/UCodeUStory)
+[《Java技术手册(第三版)》中文电子书](https://pan.baidu.com/s/1sl4ZVOh) | [UCodeUStory](https://github.com/UCodeUStory)
+[《Eclipse插件开发学习笔记》+源代码](https://pan.baidu.com/s/1sl4ZVOh) | [UCodeUStory](https://github.com/UCodeUStory)
+[《Head First Java》 中文第2版下](https://pan.baidu.com/s/1sl4ZVOh) | [UCodeUStory](https://github.com/UCodeUStory)
+[《重构-改善既有代码的设计》【中文版】](https://pan.baidu.com/s/1sl4ZVOh) | [UCodeUStory](https://github.com/UCodeUStory)
+[J2EE电子书(中文版)](https://pan.baidu.com/s/1sl4ZVOh) | [UCodeUStory](https://github.com/UCodeUStory)
+[《单元测试之道Java版——使用Junit》完整电子书](https://pan.baidu.com/s/1sl4ZVOh) | [UCodeUStory](https://github.com/UCodeUStory)
+[Java项目开发常见问题分析【内部培训资料】](https://pan.baidu.com/s/1sl4ZVOh) | [UCodeUStory](https://github.com/UCodeUStory)
+[《Java与模式》清晰扫描版](https://pan.baidu.com/s/1sl4ZVOh) | [UCodeUStory](https://github.com/UCodeUStory)
+[Spring攻略》英文PDF版](https://pan.baidu.com/s/1sl4ZVOh) | [UCodeUStory](https://github.com/UCodeUStory)
+[《java开发实战经典(名师讲坛)》扫描版](https://pan.baidu.com/s/1sl4ZVOh) | [UCodeUStory](https://github.com/UCodeUStory)
+[《Java 2 技术内幕》PDG版电子书](https://pan.baidu.com/s/1sl4ZVOh) | [UCodeUStory](https://github.com/UCodeUStory)
+[《Java Web开发速学宝典》样章(共3章)](https://pan.baidu.com/s/1sl4ZVOh) | [UCodeUStory](https://github.com/UCodeUStory)
+[Spring Framework开发参考手册(Spring 2.5)](https://pan.baidu.com/s/1sl4ZVOh) | [UCodeUStory](https://github.com/UCodeUStory)
+[精通Spring》清晰书签版电子书](https://pan.baidu.com/s/1sl4ZVOh) | [UCodeUStory](https://github.com/UCodeUStory)
+[《J2EE设计开发编程指南》中文 (PDF)](https://pan.baidu.com/s/1sl4ZVOh) | [UCodeUStory](https://github.com/UCodeUStory)
+[《实用J2EE设计模式编程指南》完整电子书](https://pan.baidu.com/s/1sl4ZVOh) | [UCodeUStory](https://github.com/UCodeUStory)
+
 
 
 ## **Go**书籍
@@ -57,6 +84,7 @@
  图书名字 | 捐献者
 ---|---
 [[数据结构(C语言版)].严蔚敏_吴伟民.扫描版 第三版](https://pan.baidu.com/s/1sl4ZVOh) |[yuhui](https://github.com/yuhui2299)
+[[数据结构与算法(java语言版)）](https://pan.baidu.com/s/1sl4ZVOh) |[yuhui](https://github.com/yuhui2299)
 
 ## **Docker**书籍
   图书名称 | 捐献者
