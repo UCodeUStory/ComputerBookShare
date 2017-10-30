@@ -36,7 +36,14 @@
 [JavaScript程序188个建议](https://pan.baidu.com/s/1sl4ZVOh) |[UCodeUStory](https://github.com/UCodeUStory) 
 
 
- ## **Python**书籍
+## **HTML**书籍
+
+ 图书名字 | 捐献者
+---|---
+[HTML5实战](https://pan.baidu.com/s/1sl4ZVOh) | [UCodeUStory](https://github.com/UCodeUStory)
+[html5+css3入门精通](https://pan.baidu.com/s/1sl4ZVOh) | [UCodeUStory](https://github.com/UCodeUStory)
+
+## **Python**书籍
 
 
  图书名字 | 捐献者
