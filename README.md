@@ -50,6 +50,13 @@
 ---|---
 [Python学习手册](https://pan.baidu.com/s/1sl4ZVOh)| [UCodeUStory](https://github.com/UCodeUStory)
 [Python基础教程第二版](https://pan.baidu.com/s/1sl4ZVOh) | [UCodeUStory](https://github.com/UCodeUStory)
+[Python编程：从入门到实践](https://pan.baidu.com/s/1sl4ZVOh) | [yuhui](https://github.com/yuhui2299)
+
+## **数据结构**
+
+ 图书名字 | 捐献者
+---|---
+[[数据结构(C语言版)].严蔚敏_吴伟民.扫描版 第三版](https://pan.baidu.com/s/1sl4ZVOh) |[yuhui](https://github.com/yuhui2299)
 
 ## **Docker**书籍
   图书名称 | 捐献者
