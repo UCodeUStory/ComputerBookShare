@@ -163,7 +163,8 @@
 
 ## 图书下载地址
 
-**[图书PDF地址](https://pan.baidu.com/s/1sl4ZVOh)
+
+**[图书PDF地址](https://pan.baidu.com/s/1skEoe53)
 没有密码，长期有效**
 
 
