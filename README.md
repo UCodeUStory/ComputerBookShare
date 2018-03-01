@@ -143,8 +143,8 @@
 
 ## **机器学习**书籍
 
- 图书名字 | 捐献者
----|---
+ 图书名字 | 捐献者 |a
+---|---|---
 [Tensorflow 实战Google深度学习框架](https://pan.baidu.com/s/1sl4ZVOh) | [UCodeUStory](https://github.com/UCodeUStory)
 [人工智能一种现代的方法](https://pan.baidu.com/s/1sl4ZVO) | [UCodeUStory](https://github.com/UCodeUStory)
 [机器学习实战](https://pan.baidu.com/s/1sl4ZVO) | [UCodeUStory](https://github.com/UCodeUStory)
