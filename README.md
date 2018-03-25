@@ -3,7 +3,7 @@
 
 有分享的同学，可以在下面添加书名和自己名字，并把书的链接地址留下，然后我会整理到网盘
 
-希望大家多多fork，多多star！！！
+希望大家多多fork，多多star！！！ 如果链接失效请联系我邮箱
 
 ## **Android书籍**
 
@@ -77,8 +77,6 @@
 [《Eclipse插件开发学习笔记》+源代码](https://pan.baidu.com/s/1sl4ZVOh) | [UCodeUStory](https://github.com/UCodeUStory)
 [《Head First Java》 中文第2版下](https://pan.baidu.com/s/1sl4ZVOh) | [UCodeUStory](https://github.com/UCodeUStory)
 [《重构-改善既有代码的设计》【中文版】](https://pan.baidu.com/s/1sl4ZVOh) | [UCodeUStory](https://github.com/UCodeUStory)
-[J2EE电子书(中文版)](https://pan.baidu.com/s/1sl4ZVOh) | [UCodeUStory](https://github.com/UCodeUStory)
-[《单元测试之道Java版——使用Junit》完整电子书](https://pan.baidu.com/s/1sl4ZVOh) | [UCodeUStory](https://github.com/UCodeUStory)
 [Java项目开发常见问题分析【内部培训资料】](https://pan.baidu.com/s/1sl4ZVOh) | [UCodeUStory](https://github.com/UCodeUStory)
 [《Java与模式》清晰扫描版](https://pan.baidu.com/s/1sl4ZVOh) | [UCodeUStory](https://github.com/UCodeUStory)
 [Spring攻略》英文PDF版](https://pan.baidu.com/s/1sl4ZVOh) | [UCodeUStory](https://github.com/UCodeUStory)
@@ -126,6 +124,7 @@
 ---|---
 [[数据结构(C语言版)].严蔚敏_吴伟民.扫描版 第三版](https://pan.baidu.com/s/1sl4ZVOh) |[yuhui](https://github.com/yuhui2299)
 [[数据结构与算法(java语言版)）](https://pan.baidu.com/s/1sl4ZVOh) |[yuhui](https://github.com/yuhui2299)
+[[数据结构与算法分析(java语言版)）](https://pan.baidu.com/s/1sl4ZVOh) |[UCodeUStory](https://github.com/UCodeUStory)
 
 ## **Docker**书籍
   图书名称 | 捐献者
@@ -143,25 +142,24 @@
 
 ## **机器学习**书籍
 
- 图书名字 | 捐献者
----|---
+ 图书名字 | 捐献者 |a
+---|---|---
 [Tensorflow 实战Google深度学习框架](https://pan.baidu.com/s/1sl4ZVOh) | [UCodeUStory](https://github.com/UCodeUStory)
 [人工智能一种现代的方法](https://pan.baidu.com/s/1sl4ZVO) | [UCodeUStory](https://github.com/UCodeUStory)
 [机器学习实战](https://pan.baidu.com/s/1sl4ZVO) | [UCodeUStory](https://github.com/UCodeUStory)
 [机器学习导论](https://pan.baidu.com/s/1sl4ZVO) | [UCodeUStory](https://github.com/UCodeUStory)
-[机器学习及应用](https://pan.baidu.com/s/1sl4ZVO) | [UCodeUStory](https://github.com/UCodeUStory)
-
+[机器学习及应用](https://pan.baidu.com/s/1skEoe53) | [UCodeUStory](https://github.com/UCodeUStory)
 
 
 ## **C**书籍
 
 
 
-
 ## 图书下载地址
 
-**[++图书PDF地址++](https://pan.baidu.com/s/1sl4ZVOh)
-没有密码，长期有效**
+
+**[图书PDF地址](https://pan.baidu.com/s/1skEoe53)
+没有密码，长期有效
 
 
 
