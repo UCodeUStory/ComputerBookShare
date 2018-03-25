@@ -88,7 +88,6 @@
 [Spring Framework开发参考手册(Spring 2.5)](https://pan.baidu.com/s/1sl4ZVOh) | [UCodeUStory](https://github.com/UCodeUStory)
 [精通Spring》清晰书签版电子书](https://pan.baidu.com/s/1sl4ZVOh) | [UCodeUStory](https://github.com/UCodeUStory)
 [《J2EE设计开发编程指南》中文 (PDF)](https://pan.baidu.com/s/1sl4ZVOh) | [UCodeUStory](https://github.com/UCodeUStory)
-[《实用J2EE设计模式编程指南》完整电子书](https://pan.baidu.com/s/1sl4ZVOh) | [UCodeUStory](https://github.com/UCodeUStory)
 
 
 
@@ -156,7 +155,6 @@
 
 ## **C**书籍
 
- 
 
 
 
